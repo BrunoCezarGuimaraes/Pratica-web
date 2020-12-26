@@ -1,2 +1,2 @@
 # Pratica-web
-Programas simples de linguagens Web para pratica de programação
+Programas simples de linguagens Web para pratica de programação.
